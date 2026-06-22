@@ -23,8 +23,7 @@ update/delete/add cars in the store. Can see all the cars and who they are rente
 and public functionalities for attributes. Prudently use inheritance, polymorphism, data
 abstraction, and other concepts of OOPs. Start with atleast 5 cars, 5 customers, 5
 employees and 1 manager. Feel free to choose default value(s) for other parameters.
-6. For reference, you can check out the block diagram given on the next page.
-7. The databases should be in csv format and you should have add, read, insert and delete functionalities.*/
+.6 The databases should be in csv format and you should have add, read, insert and delete functionalities.*/
 
 #include <bits/stdc++.h>
 using namespace std;
